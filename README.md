@@ -5,7 +5,7 @@ This project demonstrates building a java application using Gradle build tool an
 ---
 
 ## **Features**
--Installed Java on the server followed by Nexus on server, created a new Linux User for Nexus and changed the permissions of Nexus executable and the Sonatype-work folder.
+- Installed Java on the server followed by Nexus on server, created a new Linux User for Nexus and changed the permissions of Nexus executable and the Sonatype-work folder.
 - Set Nexus configuration to run as a Nexus user and started Nexus with the Nexus User.
 - Configured Firewall rules to open port 8081 to access the Nexus server from the web browser.
 - Created new user on Nexus with permission to upload artifacts.
