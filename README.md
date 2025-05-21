@@ -20,7 +20,7 @@ This project demonstrates building a java application using Gradle build tool an
  
 ---
 
-## **Features**
+## **Diagrammatic Presentation**
 - Installed Java on the server followed by Nexus on server, created a new Linux User for Nexus and changed the permissions of Nexus executable and the Sonatype-work folder.
    ![image](https://github.com/user-attachments/assets/bce7c2e2-acb8-4ef1-b070-70b5bc92b2e5)
 
